@@ -40,3 +40,7 @@ missing <-merge(missing_ICUb3,missing_BWb3,id=LocationAbbr,all=TRUE)
 #After born, baby put in ICU?
 #The baby's weight classified as LBW
 #Break out: Smoked 3 months before pregnancy, smoked last 3 months of pregnancy
+
+#YOU GOT THIS
+#I BELIEVE
+#WHOOOOOOP
